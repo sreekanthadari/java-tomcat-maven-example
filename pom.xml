@@ -46,12 +46,13 @@
     <repository>
     <id>sadari</id>
     <url>http://3.0.139.137:8081/nexus/content/repositories/sadari</url>
-  
-    </repository>
+      </repository>
+    
     <snapshotRepository>
     <id>snapshots</id>
     <url>http://3.0.139.137:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
-</distributionManagement>
+
+  </distributionManagement>
 
 </project>
